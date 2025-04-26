@@ -1,0 +1,1 @@
+console.log('Mintro Game loaded');
