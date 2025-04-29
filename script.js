@@ -1,1 +1,1 @@
-console.log('Mintro Game loaded');
+console.log('Mintro Game Script Running');
